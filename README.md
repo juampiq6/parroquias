@@ -1,6 +1,6 @@
 # parroquias
 
-A new Flutter project.
+App para ver parroquias en maps
 
 ## Getting Started
 
